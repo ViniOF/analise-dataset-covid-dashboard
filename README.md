@@ -32,6 +32,10 @@ Brasil: https://lookerstudio.google.com/reporting/a850f094-3193-4c9d-ac22-c5c01c
   <img src="images/Canada/dashboard-preview-canada-2.png" width="45%">
 </p>
 
+Nota: Em alguns períodos, a média móvel pode apresentar valores negativos.
+Isso ocorre devido a revisões retroativas dos dados oficiais (correção de duplicatas, reclassificação de óbitos, etc.). 
+Esses ajustes são comuns em bases epidemiológicas e foram mantidos no projeto para preservar a fidelidade aos dados originais.
+
 O dashboard interativo pode ser acessado aqui:
 
 Canadá: https://lookerstudio.google.com/reporting/8ff57034-3d23-4c79-bd3e-a7a681bbcef0
