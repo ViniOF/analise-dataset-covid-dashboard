@@ -39,3 +39,7 @@ Esses ajustes são comuns em bases epidemiológicas e foram mantidos no projeto 
 O dashboard interativo pode ser acessado aqui:
 
 Canadá: https://lookerstudio.google.com/reporting/8ff57034-3d23-4c79-bd3e-a7a681bbcef0
+
+## Observação
+
+Este projeto foi desenvolvido como parte de um exercício prático do curso de Análise de Dados da EBAC, sendo posteriormente adaptado e estruturado para portfólio.
