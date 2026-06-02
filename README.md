@@ -1,4 +1,4 @@
-# Análise exploratória de dados usando Python, Pandas e Dashboard no Looker Studio
+# Análise exploratória de dados usando Python, Pandas e Dashboard no Data Studio do Google
 
 ## Sobre o projeto
 Neste trabalho foi realizada uma análise exploratória de dados com o objetivo de construir um dashboard interativo para visualizar o avanço de casos e mortes causados pelo COVID-19.
@@ -9,7 +9,7 @@ A análise também considera o andamento da vacinação no Brasil no ano de 2021
 - Python
 - Pandas
 - Google Colab
-- Looker Studio
+- Data Studio
 
 ## Objetivo
 Explorar os dados, gerar insights iniciais e apresentar as informações de forma visual por meio de um dashboard interativo.
@@ -23,7 +23,7 @@ Explorar os dados, gerar insights iniciais e apresentar as informações de form
 
 O dashboard interativo pode ser acessado aqui:
 
-Brasil: https://lookerstudio.google.com/reporting/a850f094-3193-4c9d-ac22-c5c01c4e610e
+Brasil: https://datastudio.google.com/reporting/a850f094-3193-4c9d-ac22-c5c01c4e610e/page/UBX9E
 
 ## Dashboard Canadá
 
@@ -38,7 +38,7 @@ Esses ajustes são comuns em bases epidemiológicas e foram mantidos no projeto 
 
 O dashboard interativo pode ser acessado aqui:
 
-Canadá: https://lookerstudio.google.com/reporting/8ff57034-3d23-4c79-bd3e-a7a681bbcef0
+Canadá: https://datastudio.google.com/reporting/8ff57034-3d23-4c79-bd3e-a7a681bbcef0/page/Yg3CF
 
 ## Observação
 
